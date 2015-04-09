@@ -10,14 +10,14 @@
 	<string>SitFit</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>C6E7D26A7DD1994F795C6B0D1690EEA1511FF300</key>
+		<key>268E9365319DFA5298F2FBB98EA0CE939601CF74</key>
 		<string>https://github.com/WilliamJudd/SitFit.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SitFit.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C6E7D26A7DD1994F795C6B0D1690EEA1511FF300</key>
+		<key>268E9365319DFA5298F2FBB98EA0CE939601CF74</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C6E7D26A7DD1994F795C6B0D1690EEA1511FF300</string>
+	<string>268E9365319DFA5298F2FBB98EA0CE939601CF74</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>C6E7D26A7DD1994F795C6B0D1690EEA1511FF300</string>
+			<string>268E9365319DFA5298F2FBB98EA0CE939601CF74</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SitFit</string>
 		</dict>

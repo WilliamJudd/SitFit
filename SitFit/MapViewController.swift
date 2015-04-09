@@ -50,21 +50,21 @@ class MapViewController: UIViewController, MKMapViewDelegate {
     
             for (i,seat) in enumerate(seats) {
     
-                let venue = seat["venue"] as [String:AnyObject]
+//                let venue = seat["venue"] as [String:AnyObject]
                 
-                let locationInfo = venue ["location"] as [String:AnyObject]
+//                let locationInfo = venue ["location"] as [String:AnyObject]
     
-                let lat = locationInfo["lat"] as CLLocationDegrees
-                let lng = locationInfo["lng"] as CLLocationDegrees
+//                let lat = locationInfo["lat"] as CLLocationDegrees
+//                let lng = locationInfo["lng"] as CLLocationDegrees
+////    
+//                let coordinate = CLLocationCoordinate2DMake(lat, lng)
+//    
+//                let annotation = MyPointAnnotation()
+//                annotation.title = seat["name"] as String
+//                annotation.index = i
+//                annotation.setCoordinate(coordinate)
     
-                let coordinate = CLLocationCoordinate2DMake(lat, lng)
-    
-                let annotation = MyPointAnnotation()
-                annotation.title = seat["name"] as String
-                annotation.index = i
-                annotation.setCoordinate(coordinate)
-    
-                myMapView.addAnnotation(annotation)
+//                myMapView.addAnnotation(annotation)
     
     
                 
